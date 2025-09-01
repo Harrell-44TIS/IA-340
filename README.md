@@ -14,7 +14,7 @@ This repository links to each assignment and project for IA-340 (**Data Mining, 
 - scripts
 
 1. [lab1](https://github.com/Harrell-44TIS/IA-340/blob/main/lab1.ipynb)
-2. lab2
+2. [lab2](https://github.com/Harrell-44TIS/IA-340/blob/main/lab2.ipynb)
 3. lab3
 
 - mini project
