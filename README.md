@@ -19,6 +19,10 @@ This repository links to each assignment and project for IA-340 (**Data Mining, 
 4. [lab4](https://github.com/Harrell-44TIS/IA-340/blob/main/Collect_Census_Data.ipynb)
 5. lab5
 6. [lab6](https://github.com/Harrell-44TIS/IA-340/blob/main/lab6.ipynb)
+7. lab7
+8. lab8
+9. lab9
+10. lab10
 
 - [mini project](https://github.com/Harrell-44TIS/IA-340/blob/main/miniproject.ipynb)
 - final project
