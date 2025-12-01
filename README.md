@@ -24,6 +24,7 @@ This repository links to each assignment and project for IA-340 (**Data Mining, 
 9. lab9
 10. [lab10](https://github.com/Harrell-44TIS/IA-340/blob/main/lab10.ipynb)
 11. [lab11](https://github.com/Harrell-44TIS/IA-340/blob/main/lab11.ipynb)
+12. lab12
 
 - [mini project](https://github.com/Harrell-44TIS/IA-340/blob/main/miniproject.ipynb)
 - [final project part 1](https://github.com/Harrell-44TIS/IA-340/blob/main/final%20collection.ipynb)
